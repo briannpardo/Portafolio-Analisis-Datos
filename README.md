@@ -23,7 +23,7 @@ Tras analizar 10,000 registros de ventas, se determinaron los siguientes puntos:
 ## 🖼️ Visualizaciones
 
 ### Ventas Mensuales
-![Ventas Mensuales](./reports/ventas_mensuales.png)
+![Ventas Mensuales](./reports/Ventas_mensuales.png)
 
 ### Rendimiento por Ciudad
 ![Ventas por Ciudad](./reports/ventas_por_ciudad.png)
