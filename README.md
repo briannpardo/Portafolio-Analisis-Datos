@@ -12,6 +12,8 @@
 
 3. **[Predicción de Rotación con Machine Learning](./03_ML_Retention_Prediction):** * Implementación de un modelo **Random Forest** con una precisión del **81%**.
    * Análisis de importancia de variables para predecir proactivamente el abandono laboral.
+   
+4. **[SQL Business Queries](./04_SQL_Business_Queries):** Diseño de base de datos y consultas de inventario para toma de decisiones.
 
 ---
 ## 🛠️ Stack Tecnológico
