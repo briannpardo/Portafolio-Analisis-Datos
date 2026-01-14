@@ -1,0 +1,20 @@
+id_producto,nombre,precio,stock
+1,Laptop Gaming,1320.55,10
+2,Monitor 4K,385.0,15
+3,Teclado Mecánico,88.0,50
+
+nombre,stock
+Laptop Gaming,10
+Monitor 4K,15
+
+nombre,precio
+Laptop Gaming,1320.55
+
+valor_total_bodega
+23380.5
+
+
+
+
+
+

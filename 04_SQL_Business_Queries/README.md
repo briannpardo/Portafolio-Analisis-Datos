@@ -16,3 +16,7 @@ En este proyecto, dejé de usar archivos CSV para trabajar con una **Base de Dat
 
 ## 📈 Impacto de Negocio
 Este sistema permite a un gerente identificar en segundos qué productos necesitan reabastecimiento y cuál es el capital invertido en mercancía, facilitando la toma de decisiones financieras.
+
+## Visualización en Excel
+
+Se conectó la base de datos a Excel mediante Power Query para generar un Dashboard interactivo que permite monitorear los niveles de stock en tiempo real.
