@@ -15,6 +15,10 @@
    
 4. **[SQL Business Queries](./04_SQL_Business_Queries):** Diseño de base de datos y consultas de inventario para toma de decisiones.
 
+5. **[Análisis de Datos de Netflix](05_Netflix_Data_Analysis/)**: Estudio exploratorio de datos (EDA) utilizando Python para identificar tendencias de contenido, géneros populares y distribución de producciones por país en la plataforma.
+
+6. **[Dashboard de Inventario SQL](06_Sistema_Inventario/)**: Aplicación web interactiva con Streamlit y SQLite que permite gestionar stock en tiempo real, calcular el valor total del inventario y visualizar métricas críticas de negocio.
+
 ---
 ## 🛠️ Stack Tecnológico
 * **Lenguajes:** Python (Pandas, Scikit-Learn, Seaborn, Matplotlib).
