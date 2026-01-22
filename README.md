@@ -19,6 +19,9 @@
 
 6. **[Dashboard de Inventario SQL](06_Sistema_Inventario/)**: Aplicación web interactiva con Streamlit y SQLite que permite gestionar stock en tiempo real, calcular el valor total del inventario y visualizar métricas críticas de negocio.
 
+7. **[07_Proyecto_Maestro_Data](./07_Proyecto_Maestro_Data):** * Procesamiento de 50,000 registros con un modelo de tendencia de IA para proyectar utilidades.
+* Uso de Python para limpieza de Big Data y Power BI con Azure Maps para visualización avanzada.
+
 ---
 ## 🛠️ Stack Tecnológico
 * **Lenguajes:** Python (Pandas, Scikit-Learn, Seaborn, Matplotlib).
